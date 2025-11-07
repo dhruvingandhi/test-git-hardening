@@ -1,1 +1,1 @@
-connection: "looker"
+connection: "mariadb"
